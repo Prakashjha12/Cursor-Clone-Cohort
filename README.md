@@ -8,9 +8,7 @@ This project recreates a production-style AI product landing page including hero
 
 ## 📌 Live Preview
 
-(Add your deployed link here if hosted)
 
-Example:\
 <https://cursor-clone-cohort-chi.vercel.app/>
 
 ---
